@@ -1,0 +1,3 @@
+
+
+Ruby should already be installed on Linux so that will not be an issue. What you will have to install is the Ruby Shoes GUI, which you can download using this link: http://shoesrb.com/downloads/. Download the one that says "Shoes 3.3.7 for Linux 64 bit" directly under "Shoes 3.3(walkabout)". Once downloaded, in order to run the program simply open the Shoes application and press "Run an App" or open a file option. Then just click on the Ruby program that was developed for shoes.
